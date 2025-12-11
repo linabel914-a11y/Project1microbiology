@@ -4,7 +4,7 @@
 #Benzenine hidayet 
 #Haddine Fouzia 
 
-import pandas as pq
+import pandas as pd
 
 #Données : Séquence ADN,Longueur, Pourcentage de GC
 data ={
