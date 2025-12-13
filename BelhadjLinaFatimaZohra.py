@@ -13,6 +13,7 @@ data ={
 "Pourcentage GC":[50,66.67,58.33,40,45.45,60,50]
 }
 
+
 # Création d'un DataFrame (tableau pandas) 
 df = pd.DataFrame(data)
 print("****************Création et affichage****************")
